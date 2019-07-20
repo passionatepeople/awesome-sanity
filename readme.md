@@ -133,6 +133,7 @@ Other people's approach to structuring the studio
 ## Media
 
 ### Articles and blogs
+- [Strategies For Headless Projects With Structured Content Management Systems](https://www.smashingmagazine.com/2018/11/structured-content-done-right/) - Knut Melvær
 - [Make a Serverless Slack Notification Service – “A post was updated in Sanity”](https://dev.to/sanity-io/someone-created-a-post-in-sanity-make-a-serverless-slack-notification-service-373i) - Knut Melvær 
 - [Make your own podcasting platform!](https://dev.to/kmelve/make-your-own-podcasting-platform-e5o) - Knut Melvær 
 - [My brand new blog powered by Sanity.io](https://staticfirst.dev/blog/2019/04/my-brand-new-blog-powered-by-sanity-io-gatsby/) - Markus Schork
