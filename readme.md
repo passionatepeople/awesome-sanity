@@ -142,6 +142,7 @@ Other people's approach to structuring the studio
 ### Podcasts
 - [Structured Content Done Right with Sanity.io](https://devmode.fm/episodes/structured-content-done-right-with-sanity-io) - devMode.fm
 - [Headless CMS - Interview with Simen Svale Skogsrud](https://cherryleaf.podbean.com/e/48-headless-cms-interview-with-simen-svale-skogsrud/) - The Cherryleaf Podcast
+- [Structuring Content with Simen Svale Skogsrud and Knut Melvær of Sanity.io](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-42-structuring-content-with-simen-svale-skogsrud-and-knut-melvaer-of-sanity-io/) - JAMStack Radio
 - [Sanity.io w/ Knut Melvær](https://www.htmlallthethings.com/Podcast/5d41e97d6a070d0011eb656d) - HTML All The Things
 - [Syntax.fm](https://syntax.fm/) - Sanity is a regular sponsor of Syntax.fm
 
