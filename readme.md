@@ -83,6 +83,7 @@ These plugins add widgets or functionality to your dashboard tool.
 - [`sanity-plugin-dashboard-widget-gatsby`](https://github.com/gatsby-inc/sanity-plugin-dashboard-widget-gatsby) - A dashboard widget plugin for Gatsby Preview and Sanity
 - [`sanity-plugin-dashboard-widget-notes`](https://github.com/mrkolby/sanity-plugin-dashboard-widget-notes) - Dashboard widget for the Sanity Content Studio which lets you write simple "post-it" notes
 - [`sanity-plugin-dashboard-widget-netlify`](https://github.com/sanity-io/sanity-plugin-dashboard-widget-netlify) - Sanity Studio Dashboard Widget for triggering Netlify builds
+- [`sanity-plugin-dashboard-widget-feed`](https://github.com/readeral/sanity-plugin-dashboard-widget-feed) - A dashboard widget plugin for outputting a feed of links and videos from your own or a configured project.
 
 ## Integrations
 
