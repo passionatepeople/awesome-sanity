@@ -51,6 +51,7 @@ Use `sanity install {plugin-name}` to install a plugin.
 - [`sanity-plugin-json-input`](https://www.npmjs.com/package/sanity-plugin-json-input) - Adds a new `type: 'json'` field.
 - [`sanity-plugin-latex-input`](https://github.com/sanity-io/latex-input) - Enables LaTeX math forumla input with preview capabilities
 - [`sanity-plugin-markdown`](https://github.com/rexxars/sanity-plugin-markdown) - Adds a new `type: 'markdown'` field type. 
+- [`sanity-plugin-mapbox-input`](https://github.com/Grsmto/sanity-plugin-mapbox-input) - Sanity plugin providing input handlers for geo-related input types using Mapbox.
 - [`sanity-plugin-mux-input`](https://github.com/sanity-io/sanity-plugin-mux-input) - Adds a new `type: 'mux.video'` field type.
 - [`sanity-plugin-nyancat-spinner`](https://github.com/rexxars/sanity-plugin-nyancat-spinner) - Replace default spinners with NYANCAT SPINNERS OMG
 - [`sanity-plugin-podcast`](https://www.npmjs.com/package/sanity-plugin-podcast) - Podcast plugin for Sanity that creates schemas for podcasts and episodes with necessary iTunes data.
