@@ -109,6 +109,7 @@ These plugins add widgets or functionality to your dashboard tool.
 
 ### How-to's
 - [Netlify from Sanity](https://github.com/sanity-io/netlify-form-sanity) - How to use Netlify Forms and Functions to submit data to Sanity.io
+- [Auth0 authentication and Sanity](https://github.com/fredjens/auth0-sanity-poc) - Authenticate with Auth0 and use Sanity for userdata
 
 ### Studio Inspiration
 Other people's approach to structuring the studio
