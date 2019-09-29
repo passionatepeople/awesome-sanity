@@ -47,6 +47,7 @@ Use `sanity install {plugin-name}` to install a plugin.
 - [`dark-theme`](https://github.com/sanity-io/dark-theme) - Dark theme for the sanity studio
 - [`sanity-plugin-datatable`](https://www.npmjs.com/package/sanity-plugin-datatable) - Adds a new `type: 'table'` field type.
 - [`sanity-plugin-highcharts-editor`](https://github.com/nilsnh/sanity-plugin-highcharts-editor) - This plugin let's you embed the Highcharts Editor within Sanity.
+- [`sanity-plugin-inline-svg-upload-preview`](https://github.com/artemartemov/sanity-plugin-inline-svg-upload-preview/) - Adds a new `type: 'svgUploadPreview'` field type. Inline SVG Upload and Preview.
 - [`sanity-plugin-intercom`](https://www.npmjs.com/package/sanity-plugin-intercom) - This plugin adds a new tool in your Sanity Content Studio with the Intercom-widget.
 - [`sanity-plugin-json-input`](https://www.npmjs.com/package/sanity-plugin-json-input) - Adds a new `type: 'json'` field.
 - [`sanity-plugin-latex-input`](https://github.com/sanity-io/latex-input) - Enables LaTeX math forumla input with preview capabilities
