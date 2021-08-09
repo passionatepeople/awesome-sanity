@@ -143,6 +143,10 @@ Other people's approach to structuring the studio
 - [My brand new blog powered by Sanity.io](https://staticfirst.dev/blog/2019/04/my-brand-new-blog-powered-by-sanity-io-gatsby/) - Markus Schork
 - [Norwegian CMS startup Sanity - The New Kid in Town](https://www.cms-connected.com/News-Archive/June-2018/Norwegian-CMS-startup-Sanity-The-New-Kid-in-Town) - CMS Connected
 
+### Books
+- [Jumpstart Jamstack Development: Build and deploy modern websites and web apps using Gatsby, Netlify, and Sanity](https://amzn.com/1800203497/) - Christopher Pecoraro and Vincenzo Gambino
+
+
 ### Podcasts
 - [Structured Content Done Right with Sanity.io](https://devmode.fm/episodes/structured-content-done-right-with-sanity-io) - devMode.fm
 - [Headless CMS - Interview with Simen Svale Skogsrud](https://cherryleaf.podbean.com/e/48-headless-cms-interview-with-simen-svale-skogsrud/) - The Cherryleaf Podcast
